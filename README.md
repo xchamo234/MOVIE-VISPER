@@ -26,17 +26,17 @@
 ---
 
 ### Visit the official Movie Visper website for deployment instruction:
-**[» Official Website](https://movievisper.com)**
+**[» Official Website](https://movie-visper-offical-web-ntvx.vercel.app/)**
 
 ---
 
 ### Join our Beta Testing WhatsApp Group:
-**[» Join Beta Test Group](https://chat.whatsapp.com/)**
+**[» Join Beta Test Group]([https://chat.whatsapp.com/](https://chat.whatsapp.com/HZQqAPRYjLlL0zuY9p3E1h))**
 
 ## GET SESSION AND DEPLOY
 
 
- [![Deploy on Heroku](https://img.shields.io/badge/Deploy-brightgreen?style=for-the-badge)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
+ [![Deploy on Heroku](https://img.shields.io/badge/Deploy-brightgreen?style=for-the-badge)](https://movie-visper-offical-web-ntvx.vercel.app/)
 
 ---
 
