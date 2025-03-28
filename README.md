@@ -26,7 +26,7 @@
 ---
 
 ### Visit the official Movie Visper website for deployment instruction:
-**[» Official Website](https://movie-visper-offical-web-ntvx.vercel.app/)**
+**[» Official Website](https://movie-visper-offical-web.vercel.app/)**
 
 ---
 
@@ -36,7 +36,7 @@
 ## GET SESSION AND DEPLOY
 
 
- [![Deploy on Heroku](https://img.shields.io/badge/Deploy-brightgreen?style=for-the-badge)](https://movie-visper-offical-web-ntvx.vercel.app/)
+ [![Deploy on Heroku](https://img.shields.io/badge/Deploy-brightgreen?style=for-the-badge)](https://movie-visper-offical-web.vercel.app/)
 
 ---
 
