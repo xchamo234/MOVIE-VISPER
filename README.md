@@ -36,7 +36,7 @@
 ## GET SESSION AND DEPLOY
 
 
- [![Deploy on Heroku](https://img.shields.io/badge/Deploy-8A2BE2)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
+ [![Deploy on Heroku](https://img.shields.io/badge/Deploy-brightgreen?style=for-the-badge&logo=github)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
 
 ---
 
