@@ -42,7 +42,7 @@
 
 ## 👩‍💻 Movie Visper Team - VisperInc *[Since 2025]*
 
-| <a href="https://github.com/Saviyakolla"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/myedit.png" width=80 height=80></a> | <a href="https://github.com/themisadas"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/image.png" width=80 height=80></a> |
+| <a href="https://github.com/Saviyakolla"><img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/myedit.png" width=80 height=80></a> | <a href="https://github.com/themisadas"><img src="https://github.com/THEMISADAS2007/MOVIE-VISPER-DATABASE/blob/main/Data/WhatsApp%20Image%202025-03-28%20at%2013.10.53.jpeg?raw=true" width=80 height=80></a> |
 |---|---|
 | **[Savithu Induwara](https://github.com/Saviyskolla)**</br>Founder & Developer | **[Darksadas YT](https://github.com/DarksadasYT1)**</br>Co-Developer |
 
