@@ -2,7 +2,7 @@
 *A WhatsApp-based bot that enhances your movie experience by providing search, streaming, and download services with real-time automated conversations.*
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Saviyakolla/Voice_Database/main/Random-Images_DB/img/MOVIE-VISPER.png" width="400" height="400" alt="Movie Visper"/>
+  <img src="https://github.com/THEMISADAS2007/MOVIE-VISPER-DATABASE/blob/main/Data/visper_main.jpeg?raw=true" width="400" height="400" alt="Movie Visper"/>
 </p>
 
 **Movie Visper** is a multi-device WhatsApp user bot that allows you to search, stream, and download movies seamlessly. This bot is designed to simplify entertainment for users, providing an easy and convenient way to access movies and more. The project is developed in **JavaScript** and containerized using **Docker**. The developers are not responsible for misuse or unauthorized modifications to this project. Enjoy responsibly! 🎗✨
