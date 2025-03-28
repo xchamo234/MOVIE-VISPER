@@ -33,13 +33,8 @@
 ### Join our Beta Testing WhatsApp Group:
 **[» Join Beta Test Group](https://chat.whatsapp.com/)**
 
-## FORK NOW
+## GET SESSION AND DEPLOY
 
-<p align="left">
-<a href="https://github.com/Saviyakolla/MOVIE-VISPER/fork"><img align="center" src="https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white" alt="Fork and deploy" height="35" width="155" /></a>
-
-
-## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://img.shields.io/badge/Deploy-Now-brightgreen?style=for-the-badge&logo=github)](https://dashboard.heroku.com/new?template=https://github.com/saviya55/Saviya-Md)
 
